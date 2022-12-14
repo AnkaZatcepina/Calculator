@@ -1,9 +1,10 @@
-# Calculator
-Calculator for rational and complex numbers
-Created by Anna Zatsepina
+# Калькулятор
+Калькулятор для работы с рациональными и комплексными числами
+Для начала работы запустите user_interface.py
+Создан: Анна Зацепина
 
-## Modules:
-* calc_complex.py
-* calc_rational.py
-* user_interface.py
-* log.py
+## Модули:
+* calc_complex.py   - вычисления комплексных чисел
+* calc_rational.py  - вычисления рациональных чисел
+* user_interface.py - ввод/вывод данных
+* logger.py         - логирование
